@@ -1,0 +1,14 @@
+name: melegenerale
+version: 1.0
+description: chacun pour sois
+author: ludo
+ 
+main: com.trafalcraft.meleGeneral.Main
+ 
+commands:
+  melegeneral:
+    description: commande du plugin mele general
+    aliases: [mg]
+  fstart:
+    description: force le demarage d'une aréne
+    aliases: []
